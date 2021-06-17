@@ -1,0 +1,12 @@
+﻿{
+  "profiles": {
+    "SchedulerServer": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "applicationUrl": "http://neuotec.com:51926",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
